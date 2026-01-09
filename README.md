@@ -6,24 +6,7 @@ This project predicts Boston house prices using Ridge Regression. The goal is to
 ## Dataset
 - Boston Housing Dataset
 - 506 samples, 13 features
-- Target variable: Median house price (medv
-
-## Dataset Columns Description
-**Column**     **Description**
-crim         - Per capita crime rate by town
-zn	         - Proportion of residential land zoned for large lots
-indus	       - Proportion of non-retail business acres
-chas	       - Charles River dummy variable (1 = near river, 0 = otherwise)
-nox	         - Nitric oxide concentration (pollution level)
-rm	         - Average number of rooms per dwelling
-age	         - Proportion of houses built before 1940
-dis	         - Distance to employment centers
-rad	         - Accessibility to highways
-tax	         - Property tax rate
-ptratio	     - Student–teacher ratio
-black	       - Population demographic index
-lstat	       - Percentage of lower-income population
-medv         – Median house value (in $1000s)
+- Target variable: Median house price (medv)
 
 ## Approach
 - Train-Test Split
